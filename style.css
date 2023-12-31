@@ -119,57 +119,40 @@ section2 {
         display: inline;
         justify-content: center;
     }
-    
     .header2 {
-        display: inline;
-       margin-top: 0px;
-       width: 100%;
-       justify-content: center;
-        
+        display: inline;  
+        margin-top: ;
     }
-    
     .whats {
-        
-        margin-top: 0px; 
         width:100px;
-      
+        justify-content: center;
+        margin-left: 100px; 
+          
+    }
+    .number {
+         display: inline-block;  
         
     }
-    
-    .number {
-         display: inline;
-        width: 100%;
-    }
-    
     h3 {
         color: #fff;
         font-size: 20px;
-        display: inline;        
-        width: 100%;
-        
-       
+        display: grid;  
     }
     section1{
-        justify-content: left;
+        justify-content: center;
     }
     .section1 {
         height: 120px; 
+        margin-left:1%;
+        
     }
     section2{
         justify-content: left;
         
     }
     .section2{
-        margin-left: 3%;
-        height: 90px;
+        margin-left:1%;
+        height: 95px;
     }
  
-        
-
-
-
-
-
-
-
 }
