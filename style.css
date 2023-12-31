@@ -102,16 +102,18 @@ section2 {
         width: 100%;
         border: none;
         justify-content:center;
-        display: grid;
+        display: flex;
+        flex-wrap: wrap;
        
      }
     
     li {
         list-style: none;
         font-size: 25px;
-        margin-left: 0px;
+        margin-left: 5px;
     }
     .logo{
+        
         display: block;
         width: 100%;
     }
@@ -126,6 +128,7 @@ section2 {
         width:100px;
         justify-content: center;
         margin-left: 100px; 
+       
           
     }
     .number {
